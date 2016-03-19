@@ -1,3 +1,3 @@
-# Senti Sense Website
+# First Pick Website
 
 Repo delpoying to our aws server.
